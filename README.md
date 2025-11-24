@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  <b>`캐슈`</b>
+  <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hello! I'm Micaelle Feitosa
+      Hi there! I'm <b>Micaelle Feitosa</b>
   </samp>
 </div>
 
@@ -19,14 +19,20 @@
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Micaelle_Feitosa_⚢-0b8185" />
+</div>
+      
+<br>
 <br>
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=micaelleffr&show_icons=true&count_private=true&rank_icon=0b8185&theme=dracula&title_color=0b8185&icon_color=0b8185&text_color=0b8185"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelleffr&layout=compact&langs_count=16&theme=dracula&title_color=0b8185&text_color=0b8185"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=micaelleffr&show_icons=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true&icon_color=0b8185&title_color=0b8185&text_color=c0c0c0"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelleffr&layout=compact&font=Iosevka&langs_count=16&theme=dracula&hide_border=true&title_color=0b8185&text_color=c0c0c0"/>
   <br>
   <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micaelleffr&theme=dracula&text_color=0b8185"/>
+  <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micaelleffr&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -42,18 +48,23 @@
 
 <details align="center">  
   <summary>
-      <samp><b>More Info</b></samp>
+      <samp>
+        <b>More Info</b>
+      </samp>
   </summary>
   
 <br>
 
 <div align="center">
-  <samp><b>Contact me:</b></samp>
+  <samp>
+    <b>Contact me:</b>
+  </samp>
   <br>
   <br>
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b8185?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/micaelle-feitosa-b02390345/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:micaellefeitosafti@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/micaelleffr?igsh=MWd1Mm05N2N3YmJsNg%3D%3D&utm_source=qr)
+  [![Gmail](https://img.shields.io/badge/Gmail-0b8185?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:micaellefeitosafti@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-0b8185?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/micaelleffr?igsh=MWd1Mm05N2N3YmJsNg%3D%3D&utm_source=qr)
 </div>
 
 </details>

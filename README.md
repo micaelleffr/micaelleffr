@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <b>`プ ロ グ ラ マ`</b>
+  <b>캐슈</b>
   <samp>
       <br>
       Hi there! I'm <b>Micaelle Feitosa</b>
